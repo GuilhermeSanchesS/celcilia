@@ -1,0 +1,23 @@
+.login {
+  display: grid;
+  background-color: black;
+  height: 100vh;
+  place-items: center;
+}
+
+.login > img {
+  height: 250px;
+}
+.text{
+  font-size: 16px;
+  color: #616161;
+  text-align: center;
+}
+.login > a {
+  color: white;
+  text-decoration: none;
+  padding: 20px;
+  border-radius: 99px;
+  font-weight: 800;
+  background: linear-gradient(202deg, rgba(0,255,188,1) 15%, rgba(27,37,219,1) 97%);
+}
