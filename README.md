@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://dsdeliverysds2.netlify.app/">
+  <a href="https://i.imgur.com/oQ8wguN.png">
     <img src="https://i.imgur.com/oQ8wguN.png" alt="Logo da Celcilia" />
   </a>
 </p>
@@ -19,8 +19,7 @@
 </p>
 
 # 📖 Sobre
-<p>O DS Delivery tem por objetivo criar um sistema capaz de realizar pedidos em uma pizzaria fictícia. Durante o desenvolvimento foi criada uma 
-API com quatros métodos:</p>
+<p>O Celcilia tem por objetivo criar um pagina com musicas com varios idiomas e diversidades de sons. Durante o desenvolvimento foi utilizado o codigo como base <a href="https://github.com/CleverProgrammers/spotify-clone">CleverProgrammers</a>:</p>
 
 <h1>🛠 Tecnologias</h1>
 
