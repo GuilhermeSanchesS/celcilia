@@ -31,9 +31,8 @@ API com quatros métodos:</p>
 <h1>👨‍💻 Instalação</h1>
 <p>Para a instalação das ferramentas que foram necessárias para o desenvolvimento do projeto, segue uma lista:
 - Dependencias:
-  - react-spotify-player(https://www.npmjs.com/package/react-spotify-player)
-  - spotify-web-api-js(https://www.npmjs.com/package/spotify-web-api-js)
-material-ui/core(https://material-ui.com/pt/getting-started/installation/)
-  [I'm an inline-style link](https://www.google.com)
-material-ui icon(https://material-ui.com/pt/getting-started/installation/)
+  - react-spotify-player
+  - spotify-web-api-js
+  - material-ui/core
+  - material-ui icon
   
