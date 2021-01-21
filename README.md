@@ -29,10 +29,11 @@ API com quatros métodos:</p>
   - ReactJS
 
 <h1>👨‍💻 Instalação</h1>
-<p>Para a instalação das ferramentas que foram necessárias para o desenvolvimento do projeto, segue uma lista:
+<p>Para a instalação das ferramentas que foram necessárias para o desenvolvimento do projeto, segue uma lista: </p>
+
 - Dependencias:
   - react-spotify-player
   - spotify-web-api-js
   - material-ui/core
-  - material-ui icon
+  - material-ui/icon
   
